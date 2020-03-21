@@ -1,3 +1,4 @@
-# eDXjavaModule2
-This is a "Rock, Paper or Scissors" game.
-I did create this game after taking Java course with Microsoft thru edx.org 
+# This is a "Rock, Paper & Scissors" game.
+
+This is a "Rock, Paper or Scissors" game that I created while learning Java. 
+(eDXjavaModule2)
