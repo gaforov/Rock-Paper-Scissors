@@ -1,5 +1,3 @@
 # This is a "Rock, Paper & Scissors" game.
 
-This is a "Rock, Paper or Scissors" game that I created for fun. 
-
-(eDXjavaModule2)
+This is a simpe "Rock, Paper or Scissors", have fun paying it!
